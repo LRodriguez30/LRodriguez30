@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @LRodriguez30
-- 👀 I’m interested in videogames and programming of websites...
-- 🌱 I’m currently learning systems engineering, websites programming and also JavaScript with node.js...
-- ⚡ Fun fact: I don't like to waste my time doing anything but ironically I like to waste my time doing something...
+Como estudiante de Ingeniería de Sistemas, tengo como objetivo desarrollarme como programador fullstack y aplicar mis conocimientos en proyectos significativos dentro de medianas empresas. En cuanto a mi formación técnica, cuento con experiencia en frameworks backend y frontend como Django y React, además de habilidades en tecnologías como Git, HTML, CSS, JavaScript y C#.
+
+Me considero una persona apasionada por el autoaprendizaje y la mejora continua, por lo que procuro incorporar cada día una nueva tecnología o enfoque a mi conjunto de habilidades. Destaco por ser colaborativo, resiliente, honesto y organizado, cualidades que aplico en cada uno de los proyectos en los que participo. Siempre estoy dispuesto a apoyar a mi equipo en lo que necesiten.
+
+En cuanto a mi experiencia, he trabajado en proyectos web comerciales y con fines de lucro, con potencial real de ser desplegados y utilizados profesionalmente. Estos proyectos me han permitido afianzar mis conocimientos y aportar soluciones funcionales y orientadas a resultados.
