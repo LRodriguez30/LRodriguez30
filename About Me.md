@@ -1,32 +1,123 @@
-# 👋 ¡Hello World! Soy Lester Rodríguez
+# ¡Hello World!
+# Soy Lester Rodríguez, un desarrollador independiente amante de la tecnología.
 
 ## 🌐 Sobre mí
-Estudiante de **Ingeniería de Sistemas** y **Desarrollador Fullstack**, apasionado por crear soluciones eficientes, aprender nuevas tecnologías y aplicar mis conocimientos en proyectos interesantes.
+### Área:
+- Desarrollo Full Stack
+- Desarrollo de aplicaciones web
+- Desarrollo de APIs REST
+- Despliegue de producción
+- Arquitectura de aplicaciones y APIs REST
 
-## 💻 Habilidades
-- **Lenguajes de programación:** Python | JavaScript | TypeScript | C#
-- **Frameworks y librerías:** Django, React, Node.js
-- **Despliegue y DevOps:** Implementación de aplicaciones web, CI/CD, servidores y nube.
-- **IA & ML:** Análisis de datos, regresión lineal, regresión logística y arboles de decisión.
-- **Otras habilidades:** Git, PostgreSQL
+### Frameworks:
+- Django
+- Next.js
+- Nest.js
+- React.js
 
-## 🧠 Influencias
-- **Cursos:** CS50x.ni, Web50x.ni ---> https://code-fu.net.ni/
-- **Impulso personal:** Curiosidad y aprendizaje autodidacta constante.
+### Herramientas:
+- Git
+- Obsidian
 
-## 📚 Conocimientos
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Django, Node.js, C#, Prisma, Apollo Server
-- **Frameworks:** Next.js, Django, React, ASP.NET, Entity Framework, ADO.NET, Tailwind, Bootstrap
-- **Bases de datos:** SQL Server, PostgreSQL, SQLite, MongoDB, GraphQL  
-- **DevOps y despliegue:** Git, GitHub, Vercel, Neon, Koyeb, Supabase
-- **IA & ML:** Modelos supervisados, modelos no supervisados, modelos por refuerzo y procesamiento de datos.
-- **Otras habilidades:** Patrones de diseño, optimización de código y buenas prácticas de desarrollo.
+### Agentes de IA:
+- ChatGPT
+- DeepSeek
+- Gemini
+- Banani
+- V0
 
-## 🚀 Mis Proyectos
-- Desarrollo de plataformas web completas con integración de frontend y backend con Django
-- Biblioteca de conocimientos en Obsidian
-- Análisis de datos con Jupyter Notebooks
-- Generador de sudokus en Python
+### ORMs:
+- Django ORM
+- TypeORM
+- Prisma
 
-29/10/2025
+### Lenguajes:
+- Python
+- JavaScript
+- TypeScript
+- C#
+- HTML
+- CSS
+
+### Bases de datos:
+- SQL Server
+- PostreSQL
+- MongoDB
+
+### Servicios web:
+- Koyeb
+- Vercel
+- Neon
+- Supabase
+- Render
+
+### Espacios de trabajo:
+- Visual Studio Code
+- Visual Studio
+
+Navegadores:
+- Edge
+- Opera
+- Brave
+
+### Estudios y certificaciones:
+- Estudiante / Universidad Nacional de Ingeniería
+- Bilingüe B2 / ADEI
+- Bilingüe B1 / Academia Europea
+- Desarrollador independiente / CS50x Introduction to Computer Science
+- Desarrollador web / CS50x Web Programming with Python and JavaScript
+- Estudiante de IA / Domestika - Introducción a la IA con Python
+
+### Mi filosofía:
+"Ser curioso, mantenerse al día, comprender cómo funciona todo detrás del código y construir sistemas eficientes, seguros y escalables."
+
+### Otros conocimientos no dominados:
+- Servidores
+- React.js
+- GraphQL - ApolloServer
+- Prisma
+- C
+- Flask
+- SQLite
+- Beekeper Studio
+- GitKraken
+- Postman
+- Inteligencia artificial
+- Machine Learning
+- Aplicaciones de escritorio Windows Forms
+- Visual Studio
+- Jupyteer Notebooks
+- Compiladores
+- Redes
+- Ingeniería de Sistemas
+- Nest.js
+- TypeORM
+- Next.js
+- Google Cloud
+
+
+### Otros sitios que frecuento o conozco:
+- Kaggel
+- Recraft
+- Railway
+- Stoplight
+- Google Colab
+- Figma
+- Strix
+- Canva
+- Adobe
+- Phet
+
+### Mis cursos:
+- Scrimba
+- Domestika
+- Platzi
+- Edx
+
+Librerias y herramientas que manejo:
+- Mathplotlib
+- Seaborn
+- Pandas
+- Strix
+
+26/11/2025
