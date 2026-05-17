@@ -3,17 +3,15 @@
 
 ## 🌐 Sobre mí
 ### Área:
-- Desarrollo Full Stack
 - Desarrollo de aplicaciones web
 - Desarrollo de APIs REST
 - Despliegue de producción
-- Arquitectura de aplicaciones y APIs REST
+- Arquitectura de aplicaciones
 
 ### Frameworks:
 - Django
-- Next.js
 - Nest.js
-- React.js
+- Angular
 
 ### Herramientas:
 - Git
@@ -21,15 +19,12 @@
 
 ### Agentes de IA:
 - ChatGPT
-- DeepSeek
-- Gemini
+- Claude
 - Banani
-- V0
 
 ### ORMs:
 - Django ORM
 - TypeORM
-- Prisma
 
 ### Lenguajes:
 - Python
@@ -43,6 +38,7 @@
 - SQL Server
 - PostreSQL
 - MongoDB
+- CassandraDB
 
 ### Servicios web:
 - Koyeb
@@ -56,6 +52,7 @@
 - Visual Studio
 
 Navegadores:
+- Chrome
 - Edge
 - Opera
 - Brave
@@ -68,12 +65,10 @@ Navegadores:
 - Desarrollador web / CS50x Web Programming with Python and JavaScript
 - Estudiante de IA / Domestika - Introducción a la IA con Python
 
-### Mi filosofía:
-"Ser curioso, mantenerse al día, comprender cómo funciona todo detrás del código y construir sistemas eficientes, seguros y escalables."
-
-### Otros conocimientos no dominados:
+### Otros conocimientos o herramientas uqe conozco pero no domino:
 - Servidores
 - React.js
+- Next.js
 - GraphQL - ApolloServer
 - Prisma
 - C
@@ -85,14 +80,9 @@ Navegadores:
 - Inteligencia artificial
 - Machine Learning
 - Aplicaciones de escritorio Windows Forms
-- Visual Studio
 - Jupyteer Notebooks
-- Compiladores
 - Redes
 - Ingeniería de Sistemas
-- Nest.js
-- TypeORM
-- Next.js
 - Google Cloud
 
 
@@ -111,7 +101,6 @@ Navegadores:
 ### Mis cursos:
 - Scrimba
 - Domestika
-- Platzi
 - Edx
 
 Librerias y herramientas que manejo:
@@ -120,4 +109,4 @@ Librerias y herramientas que manejo:
 - Pandas
 - Strix
 
-26/11/2025
+17/05/2026
